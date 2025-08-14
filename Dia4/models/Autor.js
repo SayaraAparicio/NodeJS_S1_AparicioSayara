@@ -12,8 +12,8 @@ class Autor {
         }
     }
     //Quitar libro de ambos lados
-    quitarLibro(){
-
+    quitarLibro(libro){
+        
     }
 }
 
